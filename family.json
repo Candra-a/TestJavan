@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Bani",
+        "father": "",
+        "mother": "",
+        "gender": "male"
+    },
+    {
+        "name": "Budi",
+        "father": "Bani",
+        "mother": "",
+        "gender": "male",
+        "assets": ["Samsung Universe 9", "Samsung Galaxy Book"]
+    },
+    {
+        "name": "Hari",
+        "father": "Budi",
+        "mother": "",
+        "gender": "male",
+        "assets": ["iphone 9"]
+    },
+    {
+        "name": "Siti",
+        "father": "Budi",
+        "mother": "",
+        "gender": "female",
+        "assets": ["iphone X"]
+    },
+    {
+        "name": "Nida",
+        "father": "Bani",
+        "mother": "",
+        "gender": "female",
+        "assets": ["Huawei P30"]
+    },
+    {
+        "name": "Bila",
+        "father": "",
+        "mother": "Nida",
+        "gender": "female",
+        "assets": ["Samsung Universe 9"]
+    },
+    {
+        "name": "Lesti",
+        "father": "",
+        "mother": "Nida",
+        "gender": "female",
+        "assets": ["Huawei P30", "iphone X"]
+    },
+    {
+        "name": "Andi",
+        "father": "Bani",
+        "mother": "",
+        "gender": "male",
+        "assets": ["Samsung Universe 9"]
+    },
+    {
+        "name": "Diki",
+        "father": "Andi",
+        "mother": "",
+        "gender": "male",
+        "assets": ["Samsung Galaxy Book"]
+    },
+    {
+        "name": "Sigit",
+        "father": "Bani",
+        "mother": "",
+        "gender": "male",
+        "assets": ["Huawei P30"]
+    },
+    {
+        "name": "Doni",
+        "father": "Sigit",
+        "mother": "",
+        "gender": "male",
+        "assets": ["iphone X"]
+    },
+    {
+        "name": "Toni",
+        "father": "Sigit",
+        "mother": "",
+        "gender": "male"
+    }
+]
